@@ -16,6 +16,6 @@
         <article class="row temp">
             <p class="col-md-12">William Wenzel's dumping ground for personal projects. Currently under construction.</p>
         </article>
-        <footer class="row">&copy 2014</footer>
+        <footer class="row">&copy <?php echo date("Y"); ?></footer>
     </body>
 </html>
